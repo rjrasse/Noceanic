@@ -1,6 +1,6 @@
 # Noceanic
-Summary
-Nitrogen loss fuelled by sinking particulate organic carbon (POC) is a key mechanism that drives biogeochemical
+#### Summary
+> <div style="text-align: justify"> Nitrogen loss fuelled by sinking particulate organic carbon (POC) is a key mechanism that drives biogeochemical
 cycles in anoxic oxygen minimum zones (OMZs). However, little is known about what controls this mechanism
 because of the challenges involved in observing it. Noceanic aims to improve current knowledge by exploiting – for
 the first time – time-series of optical proxies of POC and physicochemical data collected by autonomous profiling
